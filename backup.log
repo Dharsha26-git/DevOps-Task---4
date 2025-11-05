@@ -1,0 +1,8 @@
+[2025-11-05 10:56:04] INFO: Starting backup of test_data
+[2025-11-05 10:56:05] SUCCESS: Backup created: backup-2025-11-05-1056.tar.gz
+[2025-11-05 10:56:05] INFO: Checksum file created: backup-2025-11-05-1056.tar.gz.sha256
+[2025-11-05 10:56:05] SUCCESS: Checksum verification passed!
+[2025-11-05 10:56:05] SUCCESS: Backup archive integrity verified!
+[2025-11-05 10:56:05] INFO: Cleaning old backups...
+[2025-11-05 10:56:06] INFO: No old backups to delete.
+[2025-11-05 10:56:06] SUCCESS: Backup process completed successfully!
